@@ -6,6 +6,8 @@
 
 The following script will batch process images utilizing `imagemagick` and `mogrify`.
 
+## API
+
 ---
 
 ```sh
