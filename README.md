@@ -1,6 +1,7 @@
 # image-optimizer
 Batch Image Optimization and Processing tools. 
-Branch
+
+Testing the Pull Request
 
 ---
 ## TODO
