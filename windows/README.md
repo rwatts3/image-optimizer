@@ -1,5 +1,4 @@
-# ImageMagick | Powershell | Batch image optimization script.
-@(Scripts)[Watts|Scripts|Powershell|ImageMagick]
+# ImageMagick | Powershell | Batch Image Optimization Script.
 
 `@version 1.0.0`
 `@author Ryan Watts`
