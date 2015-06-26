@@ -1,6 +1,7 @@
 # ImageMagick | Powershell | Batch Image Optimization Script.
 
 `@version 1.0.0`
+
 `@author Ryan Watts`
 
 The following script will batch process images utilizing `imagemagick` and `mogrify`.
